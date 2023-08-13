@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/ylohithasri/todo_app.git
    ```
 
 2. Navigate to the project directory:
